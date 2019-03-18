@@ -119,6 +119,10 @@ Models -> Render tree -> Website rendering the visal formatting model -> **Final
 - In which order will the elements be rendered on a page.
 - The one with the higher z-index appears on the top and the lower z-index appears on the bottom
 
-
+`BEM`
+- Block Element Modifier
+- Block: standalone component that is meaningful on its own.
+- Element: part of a block that has no standalone meaning
+- Modifier: a different version of a block or an element.
 
 
