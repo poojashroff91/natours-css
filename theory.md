@@ -55,3 +55,11 @@ Models -> Render tree -> Website rendering the visal formatting model -> **Final
 - `em` are measured relative to their **current** `font-size` if used to specify lengths
 - `rem` are always measured relative to the **document's root** `font-size`
 - `vh` and `vw` are simply percentage measurements of viewport's `height` and `width`
+
+`Inheritance`
+- Inheritance passes the value for some specific properties from parents to children - **more maintainable code**
+- Properties related to text are inherited: `font-family`, `font-size`, `color`
+- The computed value of a property is what gets inherited, not the declared value.
+- Inheritance of a property only works if no one declares a value for that property
+- The `inherit` keyword forces inheritance on a certain property
+- The `initial` keyword resets a propert to its initial value.
