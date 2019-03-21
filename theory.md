@@ -125,4 +125,10 @@ Models -> Render tree -> Website rendering the visal formatting model -> **Final
 - Element: part of a block that has no standalone meaning
 - Modifier: a different version of a block or an element.
 
-
+`Basic responsive design principles`
+1. Fluid grids and layouts
+    - Float layouts
+    - Flexbox
+    - CSS Grid
+2. Flexible/Responsive Images
+3. Media queries
