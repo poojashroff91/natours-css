@@ -22,15 +22,6 @@
 1200 - 1800px : Current styles
 1800px+ : Big desktop
 
-*/
-
-@mixin respond-phone {        
-    @media (max-width: 600px) {
-        @content
-    };
-}
-
-/*
 $breakpoint argument choices
 -phone
 -tab-port
